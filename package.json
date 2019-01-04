@@ -1,0 +1,29 @@
+{
+  "name": "placa-mercosul",
+  "version": "0.1.0",
+  "description": "Auxilia na validação da placa do mercosul e na conversão da placa antiga pra placa nova",
+  "main": "index.js",
+  "scripts": {
+    "test": "ava",
+    "start": "ava --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/castrolol/node-placa-mercosul.git"
+  },
+  "keywords": [
+    "placa",
+    "placa-mercosul",
+    "placa-veicular",
+    "veiculo"
+  ],
+  "author": "castrolol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/castrolol/node-placa-mercosul/issues"
+  },
+  "homepage": "https://github.com/castrolol/node-placa-mercosul#readme",
+  "devDependencies": {
+    "ava": "^1.0.1"
+  }
+}
