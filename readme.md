@@ -62,3 +62,7 @@ const placa = convert("INVALID!", { throwsInvalid: true }); // will throw Error!
   - `throwsInvalid: bool (default: false)`: se `true` caso não seja possivel converter ele lança um erro, caso contrario somente retorna a entrada sem impacto.
 
 - `tipo: "carro"|"moto" (default: "carro")`: Indica através do tipo do veículo, se
+
+## Problemas ?
+
+Duvidas ou dificuldades, abra uma ISSUE ou contribua com um PR!

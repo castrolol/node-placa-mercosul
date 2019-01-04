@@ -1,6 +1,6 @@
 {
   "name": "placa-mercosul",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Auxilia na validação da placa do mercosul e na conversão da placa antiga pra placa nova",
   "main": "index.js",
   "scripts": {
