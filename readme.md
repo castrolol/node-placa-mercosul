@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/castrolol/node-placa-mercosul.svg?branch=master)](https://travis-ci.org/castrolol/node-placa-mercosul)
+
 ### node-placa-mercosul
 
 Pacote para validar e converter as placas para o novo formato
