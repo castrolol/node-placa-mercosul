@@ -3,5 +3,6 @@ node_js:
   - "10"
 install:
   - npm i -g codecov
+  - npm i -g nyc
 script:
   - npm run codecov
