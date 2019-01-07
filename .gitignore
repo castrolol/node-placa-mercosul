@@ -95,4 +95,8 @@ typings/
 # Ignore all local history of files
 .history
 
+# Code Coverage
+.nyc_output
+coverage
+
 # End of https://www.gitignore.io/api/node,visualstudiocode

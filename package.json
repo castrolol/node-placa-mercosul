@@ -1,10 +1,10 @@
 {
   "name": "placa-mercosul",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Auxilia na validação da placa do mercosul e na conversão da placa antiga pra placa nova",
   "main": "index.js",
   "scripts": {
-    "test": "ava",
+    "test": "nyc ava",
     "start": "ava --watch"
   },
   "repository": {
@@ -27,6 +27,7 @@
   },
   "homepage": "https://github.com/castrolol/node-placa-mercosul#readme",
   "devDependencies": {
-    "ava": "^1.0.1"
+    "ava": "^1.0.1",
+    "nyc": "^13.1.0"
   }
 }
