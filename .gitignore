@@ -98,5 +98,6 @@ typings/
 # Code Coverage
 .nyc_output
 coverage
+coverage.lcov
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
