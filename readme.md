@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/castrolol/node-placa-mercosul.svg?branch=master)](https://travis-ci.org/castrolol/node-placa-mercosul)
+[![Build Status](https://travis-ci.org/castrolol/node-placa-mercosul.svg?branch=master)](https://travis-ci.org/castrolol/node-placa-mercosul) [![codecov](https://codecov.io/gh/castrolol/node-placa-mercosul/branch/master/graph/badge.svg)](https://codecov.io/gh/castrolol/node-placa-mercosul) [![Known Vulnerabilities](https://snyk.io/test/github/castrolol/node-placa-mercosul/badge.svg?targetFile=package.json)](https://snyk.io/test/github/castrolol/node-placa-mercosul?targetFile=package.json) [![Maintainability](https://api.codeclimate.com/v1/badges/4f7cd57e5ed89e05965d/maintainability)](https://codeclimate.com/github/castrolol/node-placa-mercosul/maintainability) [![devDependencies Status](https://david-dm.org/castrolol/node-placa-mercosul/dev-status.svg)](https://david-dm.org/castrolol/node-placa-mercosul?type=dev) [![Inline docs](http://inch-ci.org/github/castrolol/node-placa-mercosul.svg?branch=master)](http://inch-ci.org/github/castrolol/node-placa-mercosul)
 
 ### node-placa-mercosul
 
@@ -63,7 +63,7 @@ const placa = convert("INVALID!", { throwsInvalid: true }); // will throw Error!
   - `spaceChar: string (default: " ")`: indica o separador dos blocos da placa;
   - `throwsInvalid: bool (default: false)`: se `true` caso não seja possivel converter ele lança um erro, caso contrario somente retorna a entrada sem impacto.
 
-- `tipo: "carro"|"moto" (default: "carro")`: Indica através do tipo do veículo, se
+- `tipo: "carro"|"moto" (default: "carro")`: Indica através do tipo do veículo
 
 ## Problemas ?
 

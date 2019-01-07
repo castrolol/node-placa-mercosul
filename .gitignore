@@ -99,5 +99,6 @@ typings/
 .nyc_output
 coverage
 coverage.lcov
+docs.json
 
 # End of https://www.gitignore.io/api/node,visualstudiocode
